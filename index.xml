@@ -2,7 +2,7 @@
     <channel>
         <title>Personal Website</title>
         <link>https://example.com/</link>
-        <description>Hugo theme - LoveIt</description>
+        <description>Personal Website - Gui33627</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
             <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
         </channel>
